@@ -1,1 +1,1 @@
-# Hotel-Management-System
+This is a simple Hotel Management System built using Python, Tkinter for the graphical user interface, and MySQL for the database. It allows users to manage customer details, room bookings, check-ins, check-outs, and billing through an interactive desktop application. The project is developed in PyCharm and uses MySQL Workbench to handle the database operations.
